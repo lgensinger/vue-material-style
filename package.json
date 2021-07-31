@@ -1,0 +1,30 @@
+{
+  "name": "@lgv/vue-material-style",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "vue-material design system style overrides",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lgensinger/vue-material-style.git"
+  },
+  "keywords": [
+    "visualization",
+    "d3"
+  ],
+  "author": "lgensinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgensinger/vue-material-style/issues"
+  },
+  "homepage": "https://github.com/lgensinger/vue-material-style#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  },
+  "dependencies": {
+    "vue-material": "^1.0.0-beta-11"
+  }
+}
