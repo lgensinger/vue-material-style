@@ -46,6 +46,8 @@ $md-button-fab-size-mini: $md-button-icon-size;
 .md-fab {
     width: $md-button-fab-size;
     height: $md-button-fab-size;
+    border-radius: 50%;
+    min-width: 4em;
     
     &.md-mini,
     &.md-dense {
